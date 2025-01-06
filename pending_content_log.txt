@@ -1,0 +1,4 @@
+# Pending Content Log
+
+# This file logs all pending lines from texto0.txt and texto1.txt
+

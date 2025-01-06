@@ -1,0 +1,5 @@
+Merged Content from texto0.txt and texto1.txt
+
+Summary:
+Total Sum of Numerical Content: 0
+Pending Content:
